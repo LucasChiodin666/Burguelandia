@@ -1,0 +1,111 @@
+
+    [{
+        "id": "Criolla",
+        "titulo": "Criolla",
+        "imagen": "img/hamburguesa2.png",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 800
+    },
+    {
+        "id": "Roquefeller",
+        "titulo": "Roquefeller",
+        "imagen": "img/hamburguesa3.png",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 900
+    },
+    {
+        "id": "Rockstar",
+        "titulo": "Rockstar",
+        "imagen": "img/hamburguesa4.png",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Coca-Cola",
+        "titulo": "Coca-Cola",
+        "imagen": "img/coca.png",
+        "categoria": {
+           " nombre": "Bebida",
+            "id": "bebida"
+        },
+        "precio": 500
+    },
+    {
+        "id": "Fanta",
+        "titulo": "Fanta",
+        "imagen": "img/fanta.png",
+        "categoria": {
+            "nombre": "Bebida",
+            "id": "bebida"
+        },
+        "precio": 500
+    },
+    {
+        "id": "Sprite",
+       " titulo": "Sprite",
+        "imagen": "img/sprite.png",
+        "categoria": {
+            "nombre": "Bebida",
+            "id": "bebida"
+        },
+        "precio": 500
+    },
+    {
+        "id": "Paso los Toros",
+        "titulo": "Paso los Toros",
+        "imagen": "img/pasotoros.png",
+        "categoria": {
+            "nombre": "Bebida",
+            "id": "bebida"
+        },
+        "precio": 500
+    },
+    {
+        "id": "Papas",
+        "titulo": "Papas",
+        "imagen": "img/papas1.png",
+        "categoria": {
+            "nombre": "Papas",
+            "id": "papas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "Papas c/ cheddar",
+        "titulo": "Papas c/ cheddar",
+       "imagen": "img/papas2.png",
+        "categoria": {
+            "nombre": "Papas",
+            "id": "papas"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Papas Rusticas",
+        "titulo": "Papas Rusticas",
+        "imagen": "img/papas3.png",
+       " categoria": {
+            "nombre": "Papas",
+            "id": "papas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "Papas c/ salsa",
+        "titulo": "Papas con salsa",
+        "imagen": "img/papas4.png",
+        "categoria": {
+            "nombre": "Papas",
+            "id": "papas"
+        },
+        "precio": 800
+    }]
